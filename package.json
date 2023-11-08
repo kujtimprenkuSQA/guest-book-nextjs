@@ -19,6 +19,7 @@
     "@near-wallet-selector/modal-ui": "^8.7.1",
     "@near-wallet-selector/my-near-wallet": "^8.7.1",
     "@near-wallet-selector/narwallets": "^8.7.1",
+    "@near-wallet-selector/near-mobile-wallet": "^8.7.1",
     "@near-wallet-selector/near-snap": "^8.7.1",
     "@near-wallet-selector/near-wallet": "^8.7.1",
     "@near-wallet-selector/nearfi": "^8.7.1",
